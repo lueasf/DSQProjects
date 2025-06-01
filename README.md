@@ -12,8 +12,8 @@ An implementation of the exercice from page 167 of the book.
 
 # 3. JPMorgan Chase & Co. - Quantitative Research Job Simulation
 Keywords : Programming, Data Analysis, Python, Credit, Market Forecasting. \
-From [Forage](https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc) \
+From [Forage](https://www.theforage.com/simulations/jpmorgan/quantitative-research-11oc) 
 
 # 4. Exploring Adversarial Machine Learning
 Keywords : Machine Learning, Security, Cybersecurity, Red Team. \
-From [Nvidia Class](https://sp-events.courses.nvidia.com/dli-india25) \
+From [Nvidia Class](https://sp-events.courses.nvidia.com/dli-india25) 
