@@ -15,3 +15,8 @@ I - Evasion open-box
 3) Targeted Attack with Carlini & Wagner L2
 
 II - Evasion black-box
+1) Untargeted Attack
+
+2) Targeted Attack
+
+3) HopSkip Jump Attack (HSJ)
